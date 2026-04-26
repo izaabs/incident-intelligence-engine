@@ -1,4 +1,0 @@
-id,erro,tempo,sistema,prioridade,acao,causa
-1,timeout,3000,API_A,alta,investigar urgente,possível sobrecarga
-2,falha_pagamento,500,API_B,critica,escalar imediatamente,falha na integração
-3,instabilidade,1500,API_A,media,monitorar e investigar,causa desconhecida
